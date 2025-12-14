@@ -1,0 +1,5 @@
+{
+  "name": "CET-4/6 Score Calculator",
+  "description": "A calculator for English CET-4 and CET-6 exams based on specific difficulty curves. Users can input raw scores for Listening, Reading, and Writing to estimate their final grade.",
+  "requestFramePermissions": []
+}
